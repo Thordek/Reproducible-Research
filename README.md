@@ -1,3 +1,3 @@
 # Reproducible-Research
 
-Contains Peer Assignment 1 for Reproduceable Research
+Contains Peer Assignment 1 for Reproducible Research
